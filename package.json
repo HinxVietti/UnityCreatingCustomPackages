@@ -1,0 +1,17 @@
+{
+    "name": "com.hinxcor.unity.unitypackageutil",
+    "version": "0.0.1",
+    "description": "custom your unity package",
+    "displayName": "Custom Package Util",
+    "unity": "2019.1",
+    "author": {
+        "name": "Hinx",
+        "email": "hinxvietti@gmail.com"
+    },
+    "hideInEditor": false,
+    "keywords": [
+        "package",
+        "unity"
+    ],
+    "samples": []
+}
